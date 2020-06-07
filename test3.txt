@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A689-D663
+
+ Directory of C:\Users\Dell\OneDrive\Desktop\project
+
+07-Jun-20  09:46 PM    <DIR>          .
+07-Jun-20  09:46 PM    <DIR>          ..
+07-Jun-20  04:47 PM                22 index.html
+07-Jun-20  04:47 PM                25 test1.txt
+07-Jun-20  05:33 PM                33 test2.txt
+07-Jun-20  09:46 PM                 0 test3.txt
+               4 File(s)             80 bytes
+               2 Dir(s)  37,410,226,176 bytes free
